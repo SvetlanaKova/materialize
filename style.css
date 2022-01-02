@@ -1,0 +1,14 @@
+body{
+  width: 1440px;
+  
+}
+.add,
+.add .frame-cleaner {
+  border: none;
+}
+.active:checked {
+  background-color: rgb(151, 28, 28);
+}
+.collection-item {
+  background-color: rgb(151, 28, 28);
+}
